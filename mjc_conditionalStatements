@@ -1,0 +1,9 @@
+if (false) {
+  console.log('This will never print');
+} else {
+  console.log('This will always print');
+}
+
+if (6 + 3 === 9) {
+  console.log('Giraffes have no vocal chords');
+}
